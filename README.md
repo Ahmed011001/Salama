@@ -12,7 +12,8 @@ The Diploma covered the below topics:
 
 
 Connect with me:
-https://www.facebook.com/profile.php?id=100020823433187  https://www.linkedin.com/in/ahmed-hassan-376a9b1b5/ 
+https://www.facebook.com/profile.php?id=100020823433187  
+https://www.linkedin.com/in/ahmed-hassan-376a9b1b5/ 
 
 Languages and Tools:
 arduino c cplusplus c# 
