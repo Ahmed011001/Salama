@@ -6,7 +6,7 @@
 - 💬 Ask me about Robotics, Arduino, Embedded Systems.
 
 ## About Me
-I am a student at Institute of Engineering and Technology-kfs and a semi-engineer. I have a strong background in Arduino projects and have showcased my skills by winning a line follower competition and securing 2nd place at Smart Technology Company. I've completed two levels of robotics courses and have successfully executed numerous projects in college, demonstrating my commitment to excellence and continuous self-improvement.
+I am a student at Institute of Engineering and Technology-kfs. I have a strong background in Arduino projects and have showcased my skills by winning a line follower competition and securing 2nd place at Smart Technology Company. I've completed two levels of robotics courses and have successfully executed numerous projects in college, demonstrating my commitment to excellence and continuous self-improvement.
 
 ## Education and Experience
 - Learning Embedded System Diploma under the supervision of Engineer Mahmoud Karem.
